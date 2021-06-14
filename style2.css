@@ -1,0 +1,30 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+#hide-block, #change-color, #change-size,#text1 , #text2{
+    width:200px;
+    height:200px;
+    background-color: rgb(245, 140, 140);
+    margin: 20px;
+}
+#click-me1, #click-me2, #click-me3, #click-me4{
+    width: 100px;
+    margin-left: 20px;
+    background-color: yellowgreen;
+}
+.change-text{
+    display: flex;
+ 
+}
+#text1{
+    background-color: rgb(122, 122, 228);
+}
+#text2{
+    background-color: crimson;
+}
+
+
